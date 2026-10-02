@@ -6,7 +6,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/crmne/zapfast/issues/new?"
 "template=translation.yml\n"
 "POT-Creation-Date: 2026-10-01 19:28-0300\n"
-"PO-Revision-Date: 2026-10-02 15:37+0800\n"
+"PO-Revision-Date: 2026-10-02 18:51+0800\n"
 "Last-Translator: Alang Hsu <alang.hsu@gmail.com>\n"
 "Language-Team: Chinese (Traditional)\n"
 "Language: zh-Hant\n"
@@ -1397,7 +1397,7 @@ msgstr "與最後上線時間相同"
 #: src/privacy.rs:144
 msgctxt "privacy"
 msgid "Silence unknown callers"
-msgstr "封鎖陌生來電"
+msgstr "陌生來電靜音"
 
 #: src/ui/image_preview.rs:174
 msgid "Save as…"
